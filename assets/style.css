@@ -1,0 +1,36 @@
+* {
+    font-size: 50px;
+    background-color: slategray;
+    color: purple;
+    text-align: center;
+}
+
+header {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 50%;
+    color: violet;
+}
+
+a:hover {
+    opacity:0.5;
+    padding: 10px;
+    border: solid white 10px;
+    font-size: 30px;
+    background-color: violet;
+}
+
+a:link, a:visited {
+    color: azure;
+    text-decoration: underline;
+    display:inline-block;
+}
+
+img {
+    box-shadow: 20px 20px 10px 10px black;
+    width: 25%;
+    height: 25%;
+}
+
+p {
+    font-size: 25px
+}
